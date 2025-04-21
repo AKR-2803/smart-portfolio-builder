@@ -2,26 +2,30 @@
 
 Smart Portfolio Builder turns resumes into interactive portfolio websites, helping job seekers, especially non-tech folks, showcase their skills, projects, and video pitch on one polished, shareable page.
 
-## 🎥 Screenshots & Demo
+### Knock it out in **under a minute**, portfolio done!
+
+### 🎥 [Watch the Demo Video](https://drive.google.com/file/d/1hL-RY1Ll2yLeS6uBG8cE2Ql5iT9NQDsG/view?usp=drive_link)
+
+## 🖼️ Preview
 
 <p align="center"> 
-    <img src="./src/assets/ss-01.png" width="45%" /> 
+    <img src="./src/assets/ss-01.png"/> 
 </p>
 
 <video width="600" controls>
   <source src="./src/assets/demo.mp4" type="video/mp4">
 </video>
 
+---
 ## ✨ Features
 
 - 📝 Resume upload (PDF)
 - 📽️ Optional video introduction [First Impression Pitch]
 - 💡 AI-powered summarization using Claude 3 (AWS Bedrock)
 - 🛠️ Project link bundling (GitHub, youtube, or any other website)
-- ⚡ Clean, UI-ready output generated with TailwindCSS
-- ✅ ATS + recruiter friendly format
+- ⚡ Clean, UI-ready output generated with React and TailwindCSS
 
-## 🖼️ Architecture
+## ⚙️ Architecture
 
 <img src="./src/assets/architecture.png" alt="architecture-image" />
 
