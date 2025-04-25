@@ -2,10 +2,9 @@
 
 Smart Portfolio Builder turns resumes into interactive portfolio websites, helping job seekers, especially non-tech folks, showcase their skills, projects, and video pitch on one polished, shareable page.
 
----
 
 <p align="center"> 
-    <img src="./src/assets/spb-meme.png"/> 
+    <img src="./src/assets/spb-meme.png" height="350px"/> 
 </p>
 
 
