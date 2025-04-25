@@ -2,7 +2,26 @@
 
 Smart Portfolio Builder turns resumes into interactive portfolio websites, helping job seekers, especially non-tech folks, showcase their skills, projects, and video pitch on one polished, shareable page.
 
-### Knock it out in **under a minute**, portfolio done!
+---
+
+<p align="center"> 
+    <img src="./src/assets/spb-meme.png"/> 
+</p>
+
+
+## WHY build this?
+
+<p align="center"> 
+    <img src="./src/assets/why-just-why.gif"/> 
+</p>
+
+➡️ For job seekers: Forget long intros and cold DMs. Just upload your resume and boom — a sleek, interactive site that shows who you are, what you’ve built, and why you’re awesome. All in under 30 seconds. No coding. No stress. No overthinking fonts.
+
+➡️ For recruiters: You don’t need to read a PhD thesis on “why I’m a great fit.” We get it. Just open the link — it's all there: projects, pitch, skills, vibes.
+
+
+<p align="center"> <strong> Don’t tell them you’re a great fit. SHOW THEM. </strong></p>
+
 
 ### 🎥 [Watch the Demo Video](https://drive.google.com/file/d/1hL-RY1Ll2yLeS6uBG8cE2Ql5iT9NQDsG/view?usp=drive_link)
 
